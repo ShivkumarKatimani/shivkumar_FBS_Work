@@ -1,4 +1,4 @@
-#def addition ():
+# def addition ():
 #    num1=int(input("enter num 1 :"))
 #    num2=int(input("enter num 2 :"))
 
@@ -6,7 +6,7 @@
 
 #    print("sum",sum)
 
-#addition()
+# addition()
 
 def addition(num1,num2):
     sum = num1 + num2
